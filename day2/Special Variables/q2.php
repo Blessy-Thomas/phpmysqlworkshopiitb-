@@ -33,6 +33,7 @@ Subject 5:          <input type="text" name="sub5"><br>
         echo "Subject 5:".$sub5."<br>";
 
         echo "Total marks Obtained: ".$total."<br>";
+        echo "Total Marks: 500 <br>";
         echo "Percentage: ".$percentage;
     }
 ?>
